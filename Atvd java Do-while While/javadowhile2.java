@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author gustavowz
+ * @author claranogrmoura
  */
 public class javadowhile2 {
     public static void main(String[] args) {
