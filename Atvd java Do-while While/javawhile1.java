@@ -8,7 +8,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author gustavowz
+ * @author claranogrmoura
+
  */
 public class javawhile1 {
 
